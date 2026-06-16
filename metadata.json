@@ -1,0 +1,10 @@
+{
+  "name": "Weather App",
+  "description": "An elegant, interactive weather application with city search, geolocation auto-detection, real-time weather details, dynamic weather-themed backgrounds, and a 5-day forecast.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
